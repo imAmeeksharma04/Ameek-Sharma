@@ -5,7 +5,7 @@ My Personal Repository.
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **sharmaameek@gmai.com**
+- 📫 How to reach me **sharmaameek@gmail.com**
 
 - ⚡ Fun fact **I am still not better in HTML/CSS.**
 
